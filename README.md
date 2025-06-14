@@ -1,10 +1,3 @@
-Berikut ini adalah **isi lengkap `README.md`** yang sudah tertata rapi, dengan bagian **"Cara Menjalankan Aplikasi"** dibuat berurutan dan menyatu di dalam file yang utuh:
-
----
-
-### ✅ `README.md`
-
-```markdown
 # 📈 Stock Price Predictor (CNN + LSTM)
 
 Aplikasi prediksi harga saham berbasis kombinasi **CNN (Convolutional Neural Network)** dan **LSTM (Long Short-Term Memory)** untuk lima saham bank besar di Indonesia: **BCA (BBCA), BRI (BBRI), Mandiri (BMRI), BNI (BBNI), dan BSI (BRIS)**.  
